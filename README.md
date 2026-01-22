@@ -81,6 +81,7 @@ IssueTracker/
 - ✅ Modifier le statut d'une issue
 - ✅ Supprimer une issue
 - ✅ Rafraîchir les données
+- ✅ Trier les issues
 
 ### États des Issues
 - **open** : Problème ouvert
